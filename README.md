@@ -1,3 +1,9 @@
+> **镜像说明（本仓库）**
+>
+> - 本仓库是 [Esmerubphire/astrbot_plugin_feiyu_voice](https://github.com/Esmerubphire/astrbot_plugin_feiyu_voice) 的**镜像/二次分发**，用于个人学习与环境自建，不是原创作品。
+> - 原作者：Esmerubphire；声库素材经 UP 星落落_oi 授权（见 `COPYRIGHT.md` / `NOTICE.md`）。
+> - 许可与使用限制以原仓库为准：**模型、索引、角色身份与录音素材不授予开源或商用许可**；商用、二次分发前请先联系原作者。
+> - 本仓库未修改任何功能代码，内容与上游同版本一致；需要最新版本请回到原仓库获取。
 # 🐋 肥鱼声音 · 让小肥鱼开口说话，也能唱歌
 
 一套可在本机部署的肥鱼声库与声音服务：**两条说话声线、RVC 换声、MIDI／ABC 按谱唱歌**，通过统一 HTTP 接口接到 AstrBot、DeepSeek／DSH 或其他 Bot。
